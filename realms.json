@@ -1,0 +1,14 @@
+{
+  "IB": {
+    "logo": "ib.png",
+    "contact": "support@ib.com"
+  },
+  "indiannavy": {
+    "logo": "indian.png",
+    "contact": "support@indiannavy.com"
+  },
+  "zomato": {
+    "logo": "zomato.png",
+    "contact": "support@zomato.com"
+  }
+}
