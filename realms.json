@@ -1,14 +1,14 @@
 {
   "IB": {
-    "logo": "ib.png",
+    "logo": "https://raw.githubusercontent.com/ManideepIB/DemoKeycloak/main/images/ib.png",
     "contact": "support@ib.com"
   },
   "indiannavy": {
-    "logo": "indian.png",
+    "logo": "https://raw.githubusercontent.com/ManideepIB/DemoKeycloak/main/images/indian.png",
     "contact": "support@indiannavy.com"
   },
   "zomato": {
-    "logo": "zomato.png",
+    "logo": "https://raw.githubusercontent.com/ManideepIB/DemoKeycloak/main/images/zomato.png",
     "contact": "support@zomato.com"
   }
 }
